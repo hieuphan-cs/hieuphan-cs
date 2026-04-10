@@ -3,5 +3,5 @@ I am a third-year Computer Science student who focus on AI, Data Science, and LL
 
 ## Education
 **Ton Duc Thang University**
-BSc of Computer Science
+BSc of Computer Science (Expected 2027)
 
