@@ -1,30 +1,31 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Phan Trí Hiếu 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square" alt="Followers" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=flat-square" alt="Stars" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Third-year+student+at+TDT+University;Passionate+about+NLP,+Computer+Vision,+Deep+Networks+Research+and+LLMs;Always+learning,+building+and+exploring+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Third-year+student+at+TDT+University;Passionate+about+NLP,+Computer+Vision,+Deep+Learning;Exploring+Research+in+LLMs+and+AI" alt="Typing SVG" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=stars">
+    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&label=Stars&style=flat-square&color=yellow" alt="Stars" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Research-7b68ee?style=flat-square" alt="Focus" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **3rd year student at TDT University**
+- 🎓 **3rd-year student at TDT University**
 - 🤖 Interested in **NLP, Computer Vision, Deep Networks Research, and LLMs**
-- 🔬 Passionate about building intelligent systems and learning from real-world AI problems
-- 🚀 Always exploring new ideas in **machine learning, deep learning, and applied AI**
-- 💡 I enjoy turning ideas into practical projects and research-oriented work
+- 🔬 Love reading papers, experimenting with models, and turning ideas into real projects
+- 🚀 Focused on building strong foundations in **Machine Learning, Deep Learning, and AI Engineering**
+- 🧠 Enjoy solving problems with a research mindset and practical implementation
 
 ---
 
@@ -32,58 +33,51 @@
 
 - Natural Language Processing
 - Computer Vision
-- Deep Learning / Neural Networks
+- Deep Learning and Neural Networks
 - Large Language Models (LLMs)
-- Research methods for AI/ML
-- Building projects with Python and modern AI frameworks
+- Retrieval-Augmented Generation (RAG)
+- AI research workflow and paper implementation
+- Python for data, ML, and automation
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,git,github,vscode,pytorch,tensorflow,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,git,github,vscode,linux,pytorch,tensorflow,opencv,numpy,pandas" />
 </p>
 
-### Libraries & Tools
-- **Python**
-- **PyTorch**
-- **TensorFlow**
-- **OpenCV**
-- **Hugging Face**
-- **NumPy / Pandas / Matplotlib**
-- **Scikit-learn**
-- **Jupyter Notebook**
+### Tools & Frameworks
+- Python
+- PyTorch
+- TensorFlow
+- OpenCV
+- Hugging Face
+- Scikit-learn
+- NumPy / Pandas / Matplotlib
+- Jupyter Notebook
+- Git & GitHub
+- Linux
 
 ---
 
-## 📌 Interests
+## 📌 Research / Interest Areas
 
-- NLP: text classification, chatbot, information extraction, summarization
-- Computer Vision: object detection, image classification, segmentation
-- Deep Learning: CNNs, RNNs, Transformers
-- LLMs: prompt engineering, fine-tuning, retrieval-augmented generation
-- AI Research: model evaluation, experimentation, paper reading
-
----
-
-## 🚀 Featured Projects
-
-> Replace these with your own projects when you have them.
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **NLP Project** | Text processing / classification / chatbot system | Python, NLP, Transformers |
-| **CV Project** | Image recognition or object detection | OpenCV, PyTorch |
-| **LLM Project** | Chat assistant or RAG-based application | Python, Hugging Face |
-| **Research Notebook** | Notes and experiments from AI papers | Jupyter, Python |
+- Text classification
+- Chatbots and conversational AI
+- Information extraction
+- Image classification
+- Object detection
+- Segmentation
+- Transformers and attention-based models
+- Prompting, fine-tuning, and RAG systems
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
@@ -91,21 +85,44 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **NLP Project** | Text processing, classification, or chatbot system | Python, NLP, Transformers |
+| **CV Project** | Image recognition or object detection | OpenCV, PyTorch |
+| **LLM Project** | Chat assistant or RAG-based application | Python, Hugging Face |
+| **Research Notes** | Paper reading, experiments, and implementation | Jupyter, Python |
+
 ---
 
 ## 🎯 Goals
 
-- Build strong foundations in AI and software engineering
-- Contribute to meaningful open-source projects
-- Develop research skills in NLP, CV, and LLMs
-- Create projects that solve real problems
-- Grow into an AI engineer / researcher with practical impact
+- Build strong AI and software engineering fundamentals
+- Develop real-world projects with practical value
+- Contribute to open source
+- Improve research and experimentation skills
+- Grow into an AI engineer / researcher
 
 ---
 
 ## 📫 Contact
 
-<p align="left">
+<p align="center">
   <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -117,13 +134,14 @@
   </a>
 </p>
 
-<p>
-  📞 Tel: <strong>0819927538</strong>
+<p align="center">
+  <b>Phan Trí Hiếu</b>  
+  <br/>
+  📞 Tel: <b>0819927538</b>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Learning never stops. Building, experimenting, and improving every day.”</i>
+  <i>“Learning, building, and improving every day.”</i>
 </p>
-
