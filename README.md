@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/hieuphan-cs">
+    <img src="https://komarev.com/ghpvc/?username=hieuphan-cs&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  <a href="https://github.com/hieuphan-cs?tab=followers">
+    <img src="https://img.shields.io/github/followers/hieuphan-cs?label=Followers&style=flat-square&color=blue" alt="Followers" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=stars">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&label=Stars&style=flat-square&color=yellow" alt="Stars" />
+  <a href="https://github.com/hieuphan-cs?tab=stars">
+    <img src="https://img.shields.io/github/stars/hieuphan-cs?affiliations=OWNER&label=Stars&style=flat-square&color=yellow" alt="Stars" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Research-7b68ee?style=flat-square" alt="Focus" />
 </p>
