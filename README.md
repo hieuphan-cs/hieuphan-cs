@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Phan Trí Hiếu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Third-year+student+at+TDT+University;Passionate+about+NLP,+Computer+Vision, LLMs;Always+learning,+building+and+exploring+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Third-year+student+at+TDT+University;Passionate+about+NLP,+Computer+Vision,+LLMs;Always+learning,+building+and+exploring+AI" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="https://github.com/hieuphan-cs">
     <img src="https://komarev.com/ghpvc/?username=hieuphan-cs&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
