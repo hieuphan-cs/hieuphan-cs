@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Phan Trí Hiếu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Third-year+student+at+TDT+University;Passionate+about+NLP,+Computer+Vision,+Deep+Networks+Research+and+LLMs;Always+learning,+building+and+exploring+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Third-year+student+at+TDT+University;Passionate+about+NLP,+Computer+Vision,+Deep+Learning+and+LLMs;Always+learning,+building+and+exploring+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,15 +21,15 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **3rd-year student at TDT University**
-- 🤖 Interested in **NLP, Computer Vision, Deep Networks Research, and LLMs**
-- 🔬 Love reading papers, experimenting with models, and turning ideas into real projects
-- 🚀 Focused on building strong foundations in **Machine Learning, Deep Learning, and AI Engineering**
-- 🧠 Enjoy solving problems with a research mindset and practical implementation
+- **3rd-year student at TDT University**
+- Interested in **NLP, Computer Vision, Deep Networks Research, and LLMs**
+- Love reading papers, experimenting with models, and turning ideas into real projects
+- Focused on building strong foundations in **Machine Learning, Deep Learning, and AI Engineering**
+   Enjoy solving problems with a research mindset and practical implementation
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Natural Language Processing
 - Computer Vision
@@ -61,7 +61,7 @@
 
 ---
 
-## 📌 Research / Interest Areas
+## Research / Interest Areas
 
 - Text classification
 - Chatbots and conversational AI
@@ -74,19 +74,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hieuphan-cs&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieuphan-cs&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieuphan-cs&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieuphan-cs&theme=tokyonight" />
 </p>
 
 ---
@@ -94,7 +94,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hieuphancs&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -123,13 +123,13 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:trihieugocong85@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/hieuphan-cs">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
